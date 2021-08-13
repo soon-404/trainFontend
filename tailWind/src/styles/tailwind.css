@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.screen {
+/* .screen {
   @apply h-screen w-screen m-0;
-}
+} */
